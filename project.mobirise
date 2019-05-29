@@ -39,7 +39,7 @@
     "siteUrl": "undefined",
     "google-analytics": "",
     "cookiesAlert": "W celu poprawy jakości naszych usług, stodujemy na tej stronie pliki cookies. Szczególy na temat znajdziesz na stronie  <a href='polityka.html'>Polityka prywatności</a>.",
-    "gdpr": "Aby kontynuować, musisz zgodzić się z warunkami naszego regulaminu <a href='terms.html'>Polityke prywatności</a> and <a href='regulamin.html'>Regulamin</a>.",
+    "gdpr": "Aby kontynuować, musisz zgodzić się z warunkami naszego regulaminu <a href='terms.html'>Polityke prywatności</a> and <a  ref='regulamin.html'>Regulamin</a>.",
     "uniqCompNum": 14,
     "versionPublish": "4.10.0",
     "screenshot": "screenshot.png"
