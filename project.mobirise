@@ -962,7 +962,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Polityka prywatności",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1499,7 +1499,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Regulamin",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
